@@ -45,10 +45,12 @@ The dataset contains customer reviews from Shopee, labeled as positive, negative
 
 
 ## Results
-
 - The model achieved an accuracy of 76 % on the test set.
 - Detailed classification report is included in the notebook.
 - **Tokenizer Optimization:** The tokenizer process has been optimized by utilizing CUDA, resulting in faster execution time.
+![image](https://github.com/user-attachments/assets/543ba640-b6de-4dc6-84bc-4eee4a3fbe9d)
+![image](https://github.com/user-attachments/assets/e3113180-7442-4acc-b6f6-f357896219bf)
+![image](https://github.com/user-attachments/assets/3d6db691-f919-49b1-bf32-cd1180baa749)
 
 ## Conclusion
 
